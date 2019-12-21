@@ -1,0 +1,15 @@
+{
+  "name": "legislator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawl-ad.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "casper-nodejs": "^1.0.0",
+    "phantomjs": "^2.1.7"
+  }
+}
